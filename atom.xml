@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.qutt.xyz</id>
     <title>Gridea</title>
-    <updated>2020-07-03T08:05:13.383Z</updated>
+    <updated>2020-07-03T08:10:05.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://www.qutt.xyz"/>
     <link rel="self" href="http://www.qutt.xyz/atom.xml"/>
@@ -10,6 +10,30 @@
     <logo>http://www.qutt.xyz/images/avatar.png</logo>
     <icon>http://www.qutt.xyz/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[这样]]></title>
+        <id>http://www.qutt.xyz/post/zhe-yang/</id>
+        <link href="http://www.qutt.xyz/post/zhe-yang/">
+        </link>
+        <updated>2020-07-03T08:06:37.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="处女座">处女座</h1>
+<h2 id="这样写吗">这样写吗</h2>
+<p>'''<br>
+class Database():<br>
+# mysql_.mysql_obj<br>
+# 定义类变量<br>
+mysql_obj = object</p>
+<pre><code>def __init__(self,mine_name = 'zaoquan_1'):
+
+    self.mysql_obj = Conn_Data(mine_name)
+
+def change_database(self,mine_name):
+
+    self.mysql_obj = Conn_Data(mine_name)
+</code></pre>
+<p>'''</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>http://www.qutt.xyz/post/hello-gridea/</id>
